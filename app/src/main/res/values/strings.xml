@@ -2,6 +2,7 @@
     <string name="app_name">GO REMAS</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
-    <string name="email">Email</string>
+    <string name="username">Username</string>
     <string name="logo_remas">Logo Remas</string>
+    <string name="text">Hai, jadi rencananya itu aku mau pake Flutter, insyaallah aku mau belajar Flutter. Karena Flutter itu bisa multiplatform, jadi aplikasi ini enggak aku terusin yaaa :) Bismillah</string>
 </resources>
